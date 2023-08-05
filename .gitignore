@@ -1,0 +1,14 @@
+# Ignore Blender auto-save files
+*.blend[1-9]
+*.blend1[0-9]
+*.blend2[0-9]
+*.blend3[0-9]
+*.blend4[0-9]
+*.blend5[0-9]
+*.blend6[0-9]
+*.blend7[0-9]
+*.blend8[0-9]
+*.blend9[0-9]
+
+# Mac specific files
+.DS_Store
